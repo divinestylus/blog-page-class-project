@@ -1,1 +1,7 @@
+Hello developers and collaborators!
+Welcome to our blog page project.
+Pay attention to the instructions carefully.
 
+Dave Wonnah
+You are responsible for the HTML. Please make sure to use semantic HTML.
+Also create an image folder to include all our images and icons.
