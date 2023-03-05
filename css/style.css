@@ -6,6 +6,11 @@ html, body {
     font-family: 'Lato', sans-serif;
 }
 
+::selection {
+    background-color: #fd5032;
+    color: #fff;
+}
+
 h1 {
     font-weight: 300;
     font-size: 3.8rem;
